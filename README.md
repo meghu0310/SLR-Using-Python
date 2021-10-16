@@ -32,6 +32,9 @@ In regression analysis , homoscedasticity means a situation in which the varianc
 Residuals are differences between the one-step-predicted output from the model and the measured output from the validation data set. Thus, residuals represent the portion of the validation data not explained by the model.
 Residual analysis is used to assess the appropriateness of a linear regression model by defining residuals and examining the residual plot graphs.
 
+### **Cook's Distance**
+ Cook's Distance is generally used to detect outliers in standard, OLS regression and measures the effect of deleting a given observation.It is used in Regression Analysis to find influential outliers in a set of predictor variables. In other words, it's a way to identify points that negatively affect your regression model.
+
 ### **References**
 https://en.wikipedia.org/wiki/Python_(programming_language)
 
